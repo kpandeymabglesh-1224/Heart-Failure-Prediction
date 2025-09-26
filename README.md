@@ -1,7 +1,7 @@
 # Heart Failure Prediction & Analysis
 
 ## Project Overview
-This project is an end-to-end data science analysis using the Heart Failure Prediction dataset. The goal is to preprocess the data, perform exploratory data analysis (EDA) to find key insights, and build machine learning models (Logistic Regression, Random Forest, XGBoost) to predict the likelihood of a patient having cardiovascular disease.
+This project is an end-to-end data science analysis using the Heart Failure Prediction dataset. The goal is to preprocess the data, perform exploratory data analysis (EDA) to find key insights, and build machine learning models (Random Forest, XGBoost) to predict the likelihood of a patient having cardiovascular disease.
 
 ## Dataset
 The dataset used is the "Cardiovascular Disease dataset" from Kaggle. It contains 70,000 records of patient data with 11 features.
